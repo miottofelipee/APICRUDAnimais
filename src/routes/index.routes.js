@@ -1,5 +1,5 @@
 import { Router } from "express";
-import AnimaisRouter from "./animais.routes.js"
+//import AnimaisRouter from "./animais.routes.js"
 
 const router = Router();
 
